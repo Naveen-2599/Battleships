@@ -62,6 +62,7 @@ Parameters: int ; int
 Returns: 2D list of ints
 '''
 def emptyGrid(rows, cols):
+    #implemented empty grid function
     grid=[]
     for i in range(rows):
         l1 = []
