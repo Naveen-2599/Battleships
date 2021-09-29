@@ -1,4 +1,2 @@
-## Battleship
-
-battleship.py - The skeleton code of the battleship is ready in this python file.
-battleship_tests.py - The testing of the battleship is in this python file.
+ d = { "apples" : 5, "beets" : 2, "lemons" : 1 },
+ print("apples:5,beets:2,lemons:1")
